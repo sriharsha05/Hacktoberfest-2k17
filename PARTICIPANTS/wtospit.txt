@@ -1,3 +1,0 @@
-Witaya Tospitakkul
-User Name = wtospit
-Course = Computer Science

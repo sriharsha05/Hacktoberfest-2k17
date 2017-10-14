@@ -1,3 +1,0 @@
-name : pankaj chaudhary
-Github usrname: pankajc007
-course : MCA
